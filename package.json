@@ -1,0 +1,15 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "A modern, responsive personal CV website built with HTML, CSS, and JavaScript, inspired by the [al-folio](https://github.com/alshedivat/al-folio) academic template design.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.10.2"
+  }
+}

@@ -1,0 +1,100 @@
+%PDF-1.4
+1 0 obj
+<</Title (2024-cv-one pager Shared with alex)
+/Producer (Skia/PDF m126 Google Docs Renderer)>>
+endobj
+3 0 obj
+<</ca 1
+/BM /Normal>>
+endobj
+8 0 obj
+<</CA 1
+/ca 1
+/LC 0
+/LJ 0
+/LW 1.33333337
+/ML 10
+/SA true
+/BM /Normal>>
+endobj
+9 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 680.50769 282.35193 692.50964]
+/A <</Type /Action
+/S /URI
+/URI (https://michaelbrazeau.github.io/CV-Michael-WWW/)>>>>
+endobj
+10 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 666.70544 89.737221 678.7074]
+/A <</Type /Action
+/S /URI
+/URI (https://michaelbrazeau.github.io/CV-Michael-WWW/)>>>>
+endobj
+11 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [258.46863 150.501465 403.70444 162.503418]
+/A <</Type /Action
+/S /URI
+/URI (https://youtu.be/zBhLm4EVGWU)>>>>
+endobj
+12 0 obj
+<</Filter /FlateDecode
+/Length 9183>> stream
+XMV>"#
+7b))
+JS=-
+uo)y
++,QK
+Iux'
+_0{6
+d8b6
+>/$'
+W.NTd
+c14j}mb
+Zloue$
+3$dMe8
+r"}KTfv
+Lnl_
+Fpvh
+qO-p
++dRH
+ypU
+PN[n:
+Ml4J
+)BL>G
+bNWq 
+w@~O
+q+i}i
+:?h%
+%luo
+:C|w
+0+b'
+"i1d
+hh]cJ
+Y]r8
+LID.S
+;~GTU
+6JEI
+RBhHv
+.4$t
+&%n5
+r\nz|
+d54<
+!yJ,RA
+99m{
+]A(
+qpuppJ
+bshNn6
+89?D"
+j(N*
+O}mu7

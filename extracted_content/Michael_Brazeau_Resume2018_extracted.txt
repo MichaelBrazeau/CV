@@ -1,0 +1,38 @@
+
+Education	
+University of Michigan: LSA (2020)	GPA 3.2/4.0
+	•	Major: Computer Science
+	•	EECS281: Data Structures and Algorithms (current)
+	•	Path Finding: Create a program that could efficiently find the shortest path between two words given a set of morph operations
+	•	EECS280: Programming and Introductory Data Structures
+	•	Machine Learning Project: Used a simple NLP language model to create a program that could predict Forum Post labels that was trained with the previous semesters’ posts and labels.
+	•	Seam carving: developed a piece of software that could do simple seam carving resizing on PNGs
+ Work Experiences									
+Racket Club	Summer 2018
+	•	Grounds Crew
+	•	Responsibilities: Training new crew members, Landscaping, General maintenance, Event set up and staff, various other daily tasks.
+
+SkySync, Inc.	Summer 2015
+	•	Junior Software developer intern
+	•	Responsibilities: Managed a data margination virtually from one cloud server to another, helped create a program in C# that translated REST calls to the client’s home cloud server so our platform could migrate the data to the client’s BOX cloud server.
+
+Organizations	
+Michigan Autonomous Aerial Vehicles(MAAV)
+	•	Currently working on the GNC (Guidance Navigation Control) sub-team in C++, creating the path finding module using a* and working on infrastructure using ZCM.
+
+ Languages
+Strong in C++
+	•	Familiar and have worked with C#, python, Javascript/Jquery, html, CSS
+	
+ Projects
+Cdrone	Summer 2018
+	•	https://github.com/martindeegan/cdrone
+	•	Added XBOX controller functionality so the drone could be controlled manually
+         IQN (pronounced icon)
+	•	https://github.com/MichaelBrazeau/IQN-WWW
+	•	Release site for album project display
+	•	Ongoing development
+ Volunteer Work
+Haiti Mission Trip	Summer 2014
+	•	Taught students percussion and helped set up a wireless network around the school grounds
+	•	Taught students with French and non-verbal instruction

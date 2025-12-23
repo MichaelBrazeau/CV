@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michael Brazeau - Resume</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', Arial, sans-serif;
+            color: #222;
+            background: #fff;
+            margin: 0;
+            padding: 32px 36px 24px 36px;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+            font-size: 15px;
+        }
+        .header {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            border-bottom: 2px solid #1976d2;
+            margin-bottom: 12px;
+            padding-bottom: 8px;
+        }
+        .name {
+            font-size: 2.1rem;
+            font-weight: 700;
+            color: #1976d2;
+            letter-spacing: 0.5px;
+        }
+        .title {
+            font-size: 1.1rem;
+            font-weight: 400;
+            color: #333;
+            margin-bottom: 4px;
+        }
+        .contact {
+            font-size: 0.98rem;
+            color: #444;
+            margin-bottom: 0;
+        }
+        .contact a {
+            color: #1976d2;
+            text-decoration: none;
+            margin-right: 16px;
+        }
+        .section {
+            margin-bottom: 10px;
+        }
+        .section-title {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: #1976d2;
+            margin-bottom: 4px;
+            letter-spacing: 0.5px;
+        }
+        .job {
+            margin-bottom: 7px;
+        }
+        .job-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+        }
+        .job-title {
+            font-weight: 700;
+            color: #222;
+        }
+        .job-company {
+            color: #1976d2;
+            font-weight: 500;
+            margin-left: 6px;
+        }
+        .job-date {
+            font-size: 0.95em;
+            color: #666;
+            white-space: nowrap;
+        }
+        .job-description {
+            margin-left: 10px;
+            margin-top: 2px;
+        }
+        .job-description ul {
+            margin: 0;
+            padding-left: 18px;
+        }
+        .job-description li {
+            margin-bottom: 2px;
+        }
+        .project {
+            margin-bottom: 7px;
+        }
+        .project-title {
+            font-weight: 700;
+            color: #222;
+        }
+        .project-meta {
+            color: #1976d2;
+            font-weight: 500;
+            font-size: 0.98em;
+            margin-left: 6px;
+        }
+        .project-description {
+            margin-left: 10px;
+            margin-top: 2px;
+        }
+        @media print {
+            body {
+                font-size: 12px;
+                padding: 12px 18px 12px 18px;
+            }
+            .header {
+                margin-bottom: 6px;
+                padding-bottom: 4px;
+            }
+            .name {
+                font-size: 1.3rem;
+            }
+            .section-title {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <span class="name">Michael Brazeau</span>
+        <span class="title">Senior Software Engineer</span>
+        <div class="contact">
+            <a href="mailto:michaelgbrazeau@gmail.com">michaelgbrazeau@gmail.com</a>
+            <a href="https://www.linkedin.com/in/michael-brazeau-6a5399173/">LinkedIn</a>
+            <a href="https://github.com/MichaelBrazeau/">GitHub</a>
+            <a href="https://michaelbrazeau.nyc/">michaelbrazeau.nyc</a>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Technical Skills</div>
+        <div class="job-description">
+            Java, Node.js, TypeScript, C#, AWS, Docker, Kubernetes, SQL, Spring Boot, Microservices, SaaS, REST APIs, Agile, Git
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Professional Experience</div>
+
+        <div class="job">
+            <div class="job-header">
+                <span><span class="job-title">Senior Software Engineer</span><span class="job-company">Alkami Technology</span></span>
+                <span class="job-date">Mar 2025 – Present</span>
+            </div>
+            <div class="job-description">
+                <ul>
+                    <li>Lead banking core integrations and client onboarding systems post-acquisition of MANTL.</li>
+                    <li>Contributed to platform modernization and technology stack integration.</li>
+                    <li>Collaborated with cross-functional teams to deliver scalable SaaS solutions for financial institutions.</li>
+                    <li>Mentored junior engineers and participated in architectural design reviews.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="job">
+            <div class="job-header">
+                <span><span class="job-title">L3 Software Engineer</span><span class="job-company">MANTL</span></span>
+                <span class="job-date">Sep 2024 – Mar 2025</span>
+            </div>
+            <div class="job-description">
+                <ul>
+                    <li>Onboarded new clients and built connections for MANTL's systems to major banking cores (Fiserv, Jack Henry, Miser).</li>
+                    <li>Developed SaaS banking integration solutions and scalable microservices in Node.js/TypeScript.</li>
+                    <li>Enabled seamless data flow and transaction processing for banks and credit unions.</li>
+                    <li>Implemented robust API integrations and contributed to platform reliability.</li>
+                    <li>Worked with PostgreSQL and NestJS to build enterprise-grade banking solutions.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="job">
+            <div class="job-header">
+                <span><span class="job-title">Software Engineer II</span><span class="job-company">Expedia Group</span></span>
+                <span class="job-date">Apr 2022 – Aug 2024</span>
+            </div>
+            <div class="job-description">
+                <ul>
+                    <li>Developed APIs and services exposing payment data to 40,000+ VRBO partners (300,000+ requests/day).</li>
+                    <li>Led Java 8→21 migration, reducing vulnerabilities by 92% and improving system reliability.</li>
+                    <li>Refactored tax form system, reducing support engagement by 90% and saving $100k/year.</li>
+                    <li>Migrated EFT payment system to Dockerized AWS ECS apps, settling $10M+/month.</li>
+                    <li>Built and presented a Postman Collection Runner tool adopted by multiple developer teams.</li>
+                    <li>Served as team Scrum Master and mentored new engineers.</li>
+                    <li>Led migration and knowledge transfer sessions for tax form-related services.</li>
+                    <li>Participated in "Center of Excellence" design reviews and incident reviews.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="job">
+            <div class="job-header">
+                <span><span class="job-title">Software Engineer I</span><span class="job-company">Expedia Group</span></span>
+                <span class="job-date">Jan 2021 – Apr 2022</span>
+            </div>
+            <div class="job-description">
+                <ul>
+                    <li>Developed API for Mexico withholding tax, processing tax for 10,000+ partners and issuing 2,000+ certificates/month.</li>
+                    <li>Promoted after 1 year for project delivery and cross-team collaboration.</li>
+                    <li>Supported and enhanced payment and compliance systems for VRBO partners.</li>
+                    <li>Worked with Apache Kafka, AWS, and Spring Boot to build scalable payment solutions.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="job">
+            <div class="job-header">
+                <span><span class="job-title">Software Engineer Intern</span><span class="job-company">Expedia Group</span></span>
+                <span class="job-date">Jun 2020 – Aug 2020</span>
+            </div>
+            <div class="job-description">
+                <ul>
+                    <li>Designed and deployed a microservice for VRBO payments team to automate validations and database queries.</li>
+                    <li>Created a three-layered test app with a custom React UI, Dropwizard backend, and MySQL server.</li>
+                    <li>Performed analysis of pricing models for future unit pricing and algorithm optimization.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Selected Project</div>
+        <div class="project">
+            <span class="project-title">MORFOSI – Indie Horror Game</span><span class="project-meta">UniDot Studios (Co-Founder)</span>
+            <div class="project-description">
+                <ul>
+                    <li>Capstone project developed and released on itch.io (English & Chinese); led engine, AI, and systems development.</li>
+                    <li>Showcased at SGDA Student Games 2020 (2nd Place, EECS 494); included in the Bundle for Racial Justice and Equality.</li>
+                    <li>Managed project from concept to release, including DevOps, QA, and community engagement.</li>
+                    <li>Featured in YouTube "Let's Play" videos (one with ~300k views).</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Education</div>
+        <div class="project">
+            <span class="project-title">B.S. Computer Science</span><span class="project-meta">University of Michigan, 2017–2020, GPA: 3.2</span>
+            <div class="project-description">
+                <ul>
+                    <li>Completed upper-level courses in web design, AI (machine vision), and game design.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html> 

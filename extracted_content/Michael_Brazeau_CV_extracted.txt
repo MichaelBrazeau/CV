@@ -1,0 +1,45 @@
+Six+ years of full-stack web development experience specializing in Java, Amazon Web Services, Docker/Kubernetes, Kafka, SQL/NoSQL databases, and C# (with Unity)
+	•	Team champion, mentor and leader  
+	•	Implemented and supported Merchant-of-Record systems, including payment processing, compliance, and data migrations with solutions architected for high-scalability and resilience
+	•	Six+ years of full-stack web development experience specializing in Java, Amazon Web Services, Docker/Kubernetes, Kafka, SQL/NoSQL databases, and C# (with Unity)
+	•	Team champion, mentor and leader  
+	•	Implemented and supported Merchant-of-Record systems, including payment processing, compliance, and data migrations with solutions architected for high-scalability and resilience
+Email: michaelgbrazeau@gmail.com   
+Cell: +1 (734) 730-5604 
+https://michaelbrazeau.github.io/CV-Michael
+
+
+PROFESSIONAL EXPERIENCE
+Expedia Group - Expedia Commerce Payments
+Software Engineer - Level II | August 2022 - Current
+Developer Experience
+	•	Developed API and asynchronous services that expose payment data from an Amazon RDS/MySQL database to partners listing up to thousands of properties on VRBO - initiating 300,000+ requests/day
+	•	Refactored a legacy tax form system to address issues, reducing customer support engagement overhead by over 90%
+	•	Migrated a new EFT payment system from a local datacenter to “Dockerized” apps running on Elastic Container Services (ECS) that were deployed with Spinnaker on a Spring Boot 3.0 framework Java 11 that now manages/settles millions-of-dollars of transactions/month
+Leadership Experience
+	•	Designated as vulnerability champion - responsible for identifying and mitigating security vulnerabilities across repositories - resulting in a reduced vulnerability footprint of over 92%
+	•	Led the migration team from Java 8 services to Java 21 services  
+	•	Built and presented company-wide, a Postman Collection runner tool for all developers to leverage
+	•	Lead both migration and knowledge transfer sessions for tax form related services 
+	•	Serve as the team Scrum Master and mentor to new members 
+	•	Participate in “Center of Excellence” design reviews/incident reviews - providing feedback on a variety of support challenges
+
+Expedia Group - VRBO Payments Team, VRBO Financial Pipeline 
+Software Engineer - Level I | January 2021 - August 2022
+	•	Developed a new API to support complex tax withholding mandates across Mexico 
+	•	Promoted after one year due to the project quality and accelerated delivery of the API  
+
+INTERNSHIPS + PROJECT EXPERIENCE
+Expedia Group - VRBO Payments Team, Partner Solutions
+Software Engineering Intern | Summer 2019 & 2020
+	•	Implemented a microservice which enabled on-call developers to quickly access all relevant payment data for debugging purposes - driving improved response times to customer support requests
+
+MORFOSI | UniDot Studios (Studio Co-Founder and Lead Systems Developer)
+Indie Horror Game | 2020
+	•	Showcased live at SGDA Student Games 2020. Copies included as a part of the Bundle for Racial Justice and Equality. Has since been a part of many “Let’s Play” videos on YouTube with one video reaching ~300k views - Video link: https://youtu.be/zBhLm4EVGWU 
+
+DryvIQ, Inc. (Formally SkySync, Inc.)
+Junior Software Engineer (high-school Intern) | Summer 2015
+	•	Developed a C# .Net Service deployed with EC2 to integrate with Box’s cloud storage API enabling partners utilizing SkySync to perform file migrations to/from Box
+
+EDUCATION                                                                                         University of Michigan – BS in Computer Science
